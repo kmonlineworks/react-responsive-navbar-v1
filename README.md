@@ -1,3 +1,13 @@
+# React Responsive Navbar Reuseable Component
+
+This react navbar component is build using **styled-component**
+
+Responsive Mobile Menu with little CSS animation while open and close the menu
+
+It can be used in any react app as a component easily.
+
+It has included menu data in a seprate file for edit it easily without touch the main code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

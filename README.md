@@ -8,6 +8,8 @@ It can be used in any react app as a component easily.
 
 It has included menu data in a seprate file for edit it easily without touch the main code.
 
+### Special Thanks for Free Logo Placeholder [LogoIpsum](https://logoipsum.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
